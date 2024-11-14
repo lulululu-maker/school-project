@@ -1,1 +1,3 @@
-# school-project
+# school-project payment system 
+library
+computer lab
